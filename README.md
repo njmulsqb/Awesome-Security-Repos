@@ -25,7 +25,9 @@ Here's a list of github repos and tools that I believe are awesome and should be
 
 ### Misc - Bug Bounty Hunting | Penetration Testing
 1. [Inventory](https://github.com/trickest/inventory) - Asset inventory on public bug bounty programs. 
-2. [HowToHunt](https://github.com/KathanP19/HowToHunt) - Tutorials and Things to Do while Hunting Vulnerability. 
+2. [HowToHunt](https://github.com/KathanP19/HowToHunt) - Tutorials and Things to Do while Hunting Vulnerability.
+3. [Keyhacks](https://github.com/streaak/keyhacks) - Keyhacks is a repository which shows quick ways in which API keys leaked by a bug bounty program can be checked to see if they're valid. 
+4. [TruffleHog](https://github.com/trufflesecurity/truffleHog) - Find credentials all over the place on Github Repos
 
 ### Checklists
 1. [Web Application Pentest Checklist](https://github.com/e11i0t4lders0n/Web-Application-Pentest-Checklist)
