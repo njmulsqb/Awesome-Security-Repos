@@ -31,6 +31,7 @@ Here's a list of github repos and tools that I believe are awesome and should be
 
 ### Checklists
 1. [Web Application Pentest Checklist](https://github.com/e11i0t4lders0n/Web-Application-Pentest-Checklist)
+2. [OWASP/ASVS](https://github.com/OWASP/ASVS) - Application Security Verification Standard 
 
 ### Vulnerable Labs
 1. [Buggyapp](https://github.com/rahulkadavil/buggyapp) - Android - Buggyapp is an vulnerable android application. This app can be used by pentesters, security researchers to practice Android application pentesting. This is build for beginners to learn basics about Android application pentesting 
