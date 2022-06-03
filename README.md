@@ -36,3 +36,6 @@ Here's a list of github repos and tools that I believe are awesome and should be
 
 ### Vulnerable Labs
 1. [Buggyapp](https://github.com/rahulkadavil/buggyapp) - Android - Buggyapp is an vulnerable android application. This app can be used by pentesters, security researchers to practice Android application pentesting. This is build for beginners to learn basics about Android application pentesting 
+
+### Similar Projects
+1. [Awesome Pentest](https://github.com/enaqx/awesome-pentest) - A collection of awesome penetration testing resources, tools and other shiny things 
