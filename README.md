@@ -29,6 +29,7 @@ Here's a list of github repos and tools that I believe are awesome and should be
 2. [HowToHunt](https://github.com/KathanP19/HowToHunt) - Tutorials and Things to Do while Hunting Vulnerability.
 3. [Keyhacks](https://github.com/streaak/keyhacks) - Keyhacks is a repository which shows quick ways in which API keys leaked by a bug bounty program can be checked to see if they're valid. 
 4. [TruffleHog](https://github.com/trufflesecurity/truffleHog) - Find credentials all over the place on Github Repos
+5. [Awesome Grep](https://github.com/cipher387/awesome-grep) - List of GREP modifications and alternatives for a variety of purposes 
 
 ### Checklists
 1. [Web Application Pentest Checklist](https://github.com/e11i0t4lders0n/Web-Application-Pentest-Checklist)
@@ -36,6 +37,9 @@ Here's a list of github repos and tools that I believe are awesome and should be
 
 ### Vulnerable Labs
 1. [Buggyapp](https://github.com/rahulkadavil/buggyapp) - Android - Buggyapp is an vulnerable android application. This app can be used by pentesters, security researchers to practice Android application pentesting. This is build for beginners to learn basics about Android application pentesting 
+
+### Active Directory
+1. [AD Pentesting Notes](https://github.com/nirajkharel/AD-Pentesting-Notes)
 
 ### Similar Projects
 1. [Awesome Pentest](https://github.com/enaqx/awesome-pentest) - A collection of awesome penetration testing resources, tools and other shiny things 
