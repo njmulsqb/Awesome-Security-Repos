@@ -35,6 +35,10 @@ Here's a list of github repos and tools that I believe are awesome and should be
 1. [Web Application Pentest Checklist](https://github.com/e11i0t4lders0n/Web-Application-Pentest-Checklist)
 2. [OWASP/ASVS](https://github.com/OWASP/ASVS) - Application Security Verification Standard 
 
+### CheatSheets
+1. [Android CheatSheet & Mindmap - six2dez](https://github.com/six2dez/pentest-book/blob/master/mobile/android.md)
+2. [Mobile Application Penetration Testing Cheatsheet - tanprathan](https://github.com/tanprathan/MobileApp-Pentest-Cheatsheet) - The Mobile App Pentest cheat sheet was created to provide concise collection of high value information on specific mobile application penetration testing topics. 
+
 ### Vulnerable Labs
 1. [Buggyapp](https://github.com/rahulkadavil/buggyapp) - Android - Buggyapp is an vulnerable android application. This app can be used by pentesters, security researchers to practice Android application pentesting. This is build for beginners to learn basics about Android application pentesting 
 
@@ -43,3 +47,4 @@ Here's a list of github repos and tools that I believe are awesome and should be
 
 ### Similar Projects
 1. [Awesome Pentest](https://github.com/enaqx/awesome-pentest) - A collection of awesome penetration testing resources, tools and other shiny things 
+2. [Awesome Android Security](https://github.com/saeidshirazi/awesome-android-security) - A curated list of Android Security materials and resources For Pentesters and Bug Hunters 
