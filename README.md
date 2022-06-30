@@ -30,7 +30,8 @@ Here's a list of github repos and tools that I believe are awesome and should be
 2. [HowToHunt](https://github.com/KathanP19/HowToHunt) - Tutorials and Things to Do while Hunting Vulnerability.
 3. [Keyhacks](https://github.com/streaak/keyhacks) - Keyhacks is a repository which shows quick ways in which API keys leaked by a bug bounty program can be checked to see if they're valid. 
 4. [TruffleHog](https://github.com/trufflesecurity/truffleHog) - Find credentials all over the place on Github Repos
-5. [Awesome Grep](https://github.com/cipher387/awesome-grep) - List of GREP modifications and alternatives for a variety of purposes 
+5. [Awesome Grep](https://github.com/cipher387/awesome-grep) - List of GREP modifications and alternatives for a variety of purposes
+6. [ streaak/keyhacks](https://github.com/streaak/keyhacks) - Keyhacks is a repository which shows quick ways in which API keys leaked by a bug bounty program can be checked to see if they're valid. 
 
 ### Checklists
 1. [Web Application Pentest Checklist](https://github.com/e11i0t4lders0n/Web-Application-Pentest-Checklist)
