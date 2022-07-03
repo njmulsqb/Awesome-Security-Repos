@@ -19,7 +19,7 @@ Here's a list of github repos and tools that I believe are awesome and should be
 1. [Tornado](https://github.com/samet-g/tornado) - Anonymously Reverse Shell over Tor Network using Hidden services without Portforwarding. 
 2. [Hakoriginfinder](https://github.com/hakluke/hakoriginfinder) - Tool for discovering the origin host behind a reverse proxy. Useful for bypassing cloud WAFs!
 3. [Nemesis](https://github.com/machinexa2/Nemesis) - URL scanner for recon, vulnerabilities, secrets and more! 
-4. [JWT Tool](A toolkit for testing, tweaking and cracking JSON Web Tokens )
+4. [ticarpi/JWT Tool](https://github.com/ticarpi/jwt_tool) - A toolkit for testing, tweaking and cracking JSON Web Tokens 
 
 ### Recon Frameworks
 1. [reconFTW](https://github.com/six2dez/reconftw) - reconFTW is a tool designed to perform automated recon on a target domain by running the best set of tools to perform scanning and finding out vulnerabilities
