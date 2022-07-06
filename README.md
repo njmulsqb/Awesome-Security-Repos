@@ -47,6 +47,7 @@ Here's a list of github repos and tools that I believe are awesome and should be
 
 ### Active Directory
 1. [AD Pentesting Notes](https://github.com/nirajkharel/AD-Pentesting-Notes)
+2. [Bad Blood](https://github.com/davidprowe/BadBlood) - BadBlood by Secframe fills a Microsoft Active Directory Domain with a structure and thousands of objects. The output of the tool is a domain similar to a domain in the real world.
 
 ### Similar Projects
 1. [Awesome Pentest](https://github.com/enaqx/awesome-pentest) - A collection of awesome penetration testing resources, tools and other shiny things 
