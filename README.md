@@ -6,6 +6,7 @@ Here's a list of github repos and tools that I believe are awesome and should be
 1. [Semgrep](https://github.com/returntocorp/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code. 
 2. [RegexPassive](https://github.com/hahwul/RegexPassive) - Collection of regexp pattern for security passive scanning 
 3. [Secure Codebox](https://github.com/secureCodeBox/secureCodeBox) - secureCodeBox (SCB) - continuous secure delivery out of the box 
+4. [wireghoul/Graudit](https://github.com/wireghoul/graudit) - grep rough audit - source code auditing tool 
 
 ### Wordlist and Payloads
 1. [PayloadAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
