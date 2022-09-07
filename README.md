@@ -15,6 +15,7 @@ Here's a list of github repos and tools that I believe are awesome and should be
 ### Cloud Security
 1. [Prowler](https://github.com/prowler-cloud/prowler) - Prowler is an Open Source security tool to perform AWS security best practices assessments, audits, incident response, continuous monitoring, hardening and forensics readiness. It contains more than 240 controls covering CIS, PCI-DSS, ISO27001, GDPR, HIPAA, FFIEC, SOC2, AWS FTR, ENS and custom security frameworks. 
 2. [PurplePanda](https://github.com/carlospolop/PurplePanda) - Identify privilege escalation paths within and across different clouds 
+3. [S3Scanner](https://github.com/sa7mon/S3Scanner) - Scan for open S3 buckets and dump the contents 
 
 ### Hacking Tools
 1. [Tornado](https://github.com/samet-g/tornado) - Anonymously Reverse Shell over Tor Network using Hidden services without Portforwarding. 
