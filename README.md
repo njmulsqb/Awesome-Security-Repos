@@ -7,6 +7,7 @@ Here's a list of github repos and tools that I believe are awesome and should be
 2. [RegexPassive](https://github.com/hahwul/RegexPassive) - Collection of regexp pattern for security passive scanning 
 3. [Secure Codebox](https://github.com/secureCodeBox/secureCodeBox) - secureCodeBox (SCB) - continuous secure delivery out of the box 
 4. [wireghoul/Graudit](https://github.com/wireghoul/graudit) - grep rough audit - source code auditing tool 
+5. [ DependencyTrack/dependency-track](https://github.com/DependencyTrack/dependency-track) - Dependency-Track is an intelligent Component Analysis platform that allows organizations to identify and reduce risk in the software supply chain. 
 
 ### Wordlist and Payloads
 1. [PayloadAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
