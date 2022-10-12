@@ -59,3 +59,4 @@ Here's a list of github repos and tools that I believe are awesome and should be
 2. [Awesome Android Security](https://github.com/saeidshirazi/awesome-android-security) - A curated list of Android Security materials and resources For Pentesters and Bug Hunters
 3. [dn0m1n8tor/AndroidPentest101](https://github.com/dn0m1n8tor/AndroidPentest101) - The motive to build this repo is to help beginner to start learn Android Pentesting by providing a roadmap. 
 4. [tylerha97/awesome-reversing](https://github.com/tylerha97/awesome-reversing) - A curated list of awesome reversing resources 
+5. [vavkamil/awesome-bugbounty-tools](https://github.com/vavkamil/awesome-bugbounty-tools) - A curated list of various bug bounty tools 
